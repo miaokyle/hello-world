@@ -1,2 +1,7 @@
 # hello-world
-Tutorial Project
+
+Hi all,
+
+This is a test project. 
+
+Cheers
